@@ -7,7 +7,7 @@ import Profile from './pages/Profile';
 import HabitCircles from './pages/HabitCircles';
 import HabitMap from './components/map/HabitMap';
 import NotFound from './pages/NotFound';
-import ChatBot from './pages/Chatbot';
+import ChatBot from './pages/ChatBot';
 import ProtectedRoute from './components/ProtectedRoute';
 import Layout from './components/Layout';
 import { useAuth } from './context/useAuth';
